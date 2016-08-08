@@ -9,4 +9,14 @@ big heads made of stone - site that lets you coordinate flights for vacations wi
 * cd isla_de_pescua
 * npm install
 * node server.js
-* 
+
+## use cases
+* user logs in with fb account to site
+ * selects a location, avalable times, budget
+* this is then cross referenced with friends and when something suitable is available then an email is sent out
+
+## modules
+* login module
+* email module
+* search module for flights
+* engine for cross references
