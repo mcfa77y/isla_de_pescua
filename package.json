@@ -67,10 +67,14 @@
   },
   "dependencies": {
     "core-js": "^2.0.0",
+    "helmet": "^2.1.2",
     "normalize.css": "^4.0.0",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1",
     "react": "^15.0.0",
     "react-dom": "^15.0.0",
     "react-redux": "^4.4.5",
-    "redux": "^3.5.2"
+    "redux": "^3.5.2",
+    "smtp-server": "^1.14.0"
   }
 }
